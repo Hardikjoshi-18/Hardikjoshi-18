@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**Hardikjoshi-18/Hardikjoshi-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<body>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div style="text-align: center;">
+    <img width="800" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=2AF7B4&width=800&lines=Hi+there%2C+I'm+Hardik+Joshi%21+%F0%9F%91%8B;Let's+Connect!" />
+  </div>
+
+  <p>I'm a Software Engineer, I love collaborating with teams to create innovative and useful solutions</p>
+
+- 🌱 Currently exploring **DSA + System Design**  
+- 🚀 Skilled in **MERN Stack, JWT, Cloudinary, MongoDB, Express, Node.js**  
+- 📂 Check out my projects below  
+- 📫 Reach me at: hardikaimnda@gmail.com
+
+  <h2>🌐 Connect with Me</h2>
+
+  <a href="www.linkedin.com/in/hardik-joshi12">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=Hardikjoshi-18" alt="GitHub Profile Views" />
+
+  <h2>🚀 Technologies & Tools</h2>
+
+  <img src="https://skillicons.dev/icons?i=html,css,js,mongodb,express,nodejs,react,express,next,tailwind,vue,firebase,rails" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,javascript,typescript,python,java,solidity,ruby&theme=dark" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=bash,git,github,docker" alt="Version Control & Docker" />
+
+
+</body>
+
+</html> 
