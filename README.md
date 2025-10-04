@@ -10,7 +10,7 @@
 
 - 🌱 Currently exploring **DSA + System Design**  
 - 🚀 Skilled in **MERN Stack, JWT, Cloudinary, MongoDB, Express, Node.js**  
-- 📂 Check out my projects below  
+- 📂 Check out my projects below 
 - 📫 Reach me at: hardikaimnda@gmail.com
 
   <h2>🌐 Connect with Me</h2>
